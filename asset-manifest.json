@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.044d2058.css",
+    "main.js": "./static/js/main.9d403b44.js",
+    "static/js/252.749bade3.chunk.js": "./static/js/252.749bade3.chunk.js",
+    "static/media/tech-systems-agent-logo.jpg": "./static/media/tech-systems-agent-logo.58a67d741e54dc057b98.jpg",
+    "index.html": "./index.html",
+    "main.044d2058.css.map": "./static/css/main.044d2058.css.map",
+    "main.9d403b44.js.map": "./static/js/main.9d403b44.js.map",
+    "252.749bade3.chunk.js.map": "./static/js/252.749bade3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.044d2058.css",
+    "static/js/main.9d403b44.js"
+  ]
+}
